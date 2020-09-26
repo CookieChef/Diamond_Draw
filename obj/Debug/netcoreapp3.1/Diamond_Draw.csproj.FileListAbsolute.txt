@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.exe
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.deps.json
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.runtimeconfig.json
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.dll
+C:\Users\s_mar\Melissa\Diamond_Draw\bin\Debug\netcoreapp3.1\Diamond_Draw.pdb
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.dll
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.pdb
+C:\Users\s_mar\Melissa\Diamond_Draw\obj\Debug\netcoreapp3.1\Diamond_Draw.genruntimeconfig.cache

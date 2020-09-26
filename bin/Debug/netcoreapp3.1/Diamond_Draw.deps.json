@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Diamond_Draw/1.0.0": {
+        "runtime": {
+          "Diamond_Draw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diamond_Draw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
